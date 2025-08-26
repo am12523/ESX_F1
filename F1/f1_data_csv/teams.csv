@@ -1,0 +1,19 @@
+id,name,logo,base,first_team_entry,world_championships,pole_positions,fastest_laps,president,director,technical_manager,chassis,engine,tyres,highest_race_finish.position,highest_race_finish.number
+1,Red Bull Racing,https://media.api-sports.io/formula-1/teams/1.png,"Milton Keynes, United Kingdom",1997.0,6.0,107.0,100.0,Dietrich Mateschitz,Laurent Mekies,Pierre Waché,RB21,Honda RBPT,Pirelli,1.0,124.0
+2,McLaren Racing,https://media.api-sports.io/formula-1/teams/2.png,"Woking, United Kingdom",1966.0,9.0,172.0,179.0,Zak Brown,Andrea Stella,Peter Prodromou / Neil Houldey,MCL39,Mercedes,Pirelli,1.0,200.0
+3,Scuderia Ferrari,https://media.api-sports.io/formula-1/teams/3.png,"Maranello, Italy",1950.0,16.0,254.0,263.0,John Elkann,Frédéric Vasseur,Loic Serra / Enrico Gualtieri,SF-25,Ferrari,Pirelli,1.0,249.0
+4,Force India,https://media.api-sports.io/formula-1/teams/4.png,,,,,,"Subrata Roy, Vijay Mallya",Robert Fernley,Andrew Green,,"Ferrari V8, Mercedes V8, Mercedes V6 turbo","Bridgestone, Pirelli",,
+5,Mercedes-AMG Petronas,https://media.api-sports.io/formula-1/teams/5.png,"Brackley, United Kingdom",1970.0,8.0,134.0,101.0,Markus Schäfer,Toto Wolff,James Allison,W16,Mercedes,Pirelli,1.0,121.0
+6,Lotus F1 Team,https://media.api-sports.io/formula-1/teams/6.png,,,,,,"Gérard Lopez, Éric Lux,Andrew Ruhan","Éric Boullier, Matthew Carter","James Allison, Nick Chester",,Mercedes,Pirelli,,
+7,Racing Bulls,https://media.api-sports.io/formula-1/teams/7.png,"Faenza, Italy",1985.0,0.0,1.0,4.0,Dietrich Mateschitz,Alan Permane,Tim Goss,VCARB 02,Honda RBPT,Pirelli,1.0,2.0
+8,Sauber F1 Team,https://media.api-sports.io/formula-1/teams/8.png,,,,,,Pascal Picci,Frédéric Vasseur,Simone Resta,,Ferrari V6 turbo Type 062 EVO,Pirelli,,
+9,Manor Marussia F1 Team,https://media.api-sports.io/formula-1/teams/9.png,,,,,,Stephen Fitzpatrick,Abdulla Boulsien,John McQuilliam,,"Cosworth, Ferrari",Pirelli,,
+10,Caterham F1 Team,https://media.api-sports.io/formula-1/teams/10.png,,,,,,"Tony Fernandes, Graham Macdonald, Colin Kolles, Finbarr O'Connell","Riad Asmat, Steve Nielsen, Cyril Abiteboul, Christijan Albers, Manfredi Ravetto","Mike Gascoyne, Mark Smith, John Iley",,Renault,Pirelli,,
+11,HRT Formula One Team,https://media.api-sports.io/formula-1/teams/11.png,,,,,,Saul Ruiz de Marcos,Luis Pérez-Sala,Toni Cuquerella,,Cosworth,"Bridgestone, Pirelli",,
+12,Williams F1 Team,https://media.api-sports.io/formula-1/teams/12.png,"Grove, United Kingdom",1978.0,9.0,128.0,133.0,Claire Williams,James Vowles,Pat Fry,FW47,Mercedes,Pirelli,1.0,114.0
+13,Alpine F1 Team,https://media.api-sports.io/formula-1/teams/13.png,"Enstone, United Kingdom",1986.0,2.0,20.0,16.0,"Alain Prost, Jérôme Stoll ",Flavio Briatore,David Sanchez,A525,Renault,Pirelli,1.0,21.0
+14,Haas F1 Team,https://media.api-sports.io/formula-1/teams/14.png,"Kannapolis, United States",2016.0,0.0,1.0,3.0,Gene Haas,Ayao Komatsu,Andrea De Zordo,VF-25,Ferrari,Pirelli,4.0,1.0
+15,Virgin Racing,https://media.api-sports.io/formula-1/teams/15.png,,,,,,Richard Branson,Alex Tai,,,Spark SRT_01E Renault,Michelin,,
+16,Manor Racing,https://media.api-sports.io/formula-1/teams/16.png,,,,,,Stephen Fitzpatrick,Thomas Mayer,"John McQuilliam, Nikolas Tombazis",,Mercedes V6 turbo hybride,Pirelli,,
+17,Aston Martin F1 Team,https://media.api-sports.io/formula-1/teams/17.png,"Silverstone, United Kingdom",2018.0,0.0,1.0,3.0,Lawrence Stroll,Andy Cowell,Eric Blandin,AMR25,Mercedes,Pirelli,1.0,1.0
+18,Stake F1 Team Kick Sauber,https://media.api-sports.io/formula-1/teams/18.png,"Hinwil, Switzerland",1993.0,0.0,1.0,7.0,Pascal Picci,Jonathan Wheatley,James Key,C45,Ferrari,Pirelli,1.0,1.0

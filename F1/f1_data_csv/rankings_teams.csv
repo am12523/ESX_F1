@@ -1,0 +1,31 @@
+position,points,season,team.id,team.name,team.logo
+1,559,2025,2,McLaren Racing,https://media.api-sports.io/formula-1/teams/2.png
+2,260,2025,3,Scuderia Ferrari,https://media.api-sports.io/formula-1/teams/3.png
+3,236,2025,5,Mercedes-AMG Petronas,https://media.api-sports.io/formula-1/teams/5.png
+4,194,2025,1,Red Bull Racing,https://media.api-sports.io/formula-1/teams/1.png
+5,70,2025,12,Williams F1 Team,https://media.api-sports.io/formula-1/teams/12.png
+6,52,2025,17,Aston Martin F1 Team,https://media.api-sports.io/formula-1/teams/17.png
+7,51,2025,18,Stake F1 Team Kick Sauber,https://media.api-sports.io/formula-1/teams/18.png
+8,45,2025,7,Racing Bulls,https://media.api-sports.io/formula-1/teams/7.png
+9,35,2025,14,Haas F1 Team,https://media.api-sports.io/formula-1/teams/14.png
+10,20,2025,13,Alpine F1 Team,https://media.api-sports.io/formula-1/teams/13.png
+1,666,2024,2,McLaren Racing,https://media.api-sports.io/formula-1/teams/2.png
+2,652,2024,3,Scuderia Ferrari,https://media.api-sports.io/formula-1/teams/3.png
+3,589,2024,1,Red Bull Racing,https://media.api-sports.io/formula-1/teams/1.png
+4,468,2024,5,Mercedes-AMG Petronas,https://media.api-sports.io/formula-1/teams/5.png
+5,94,2024,17,Aston Martin F1 Team,https://media.api-sports.io/formula-1/teams/17.png
+6,65,2024,13,Alpine F1 Team,https://media.api-sports.io/formula-1/teams/13.png
+7,58,2024,14,Haas F1 Team,https://media.api-sports.io/formula-1/teams/14.png
+8,46,2024,7,Racing Bulls,https://media.api-sports.io/formula-1/teams/7.png
+9,17,2024,12,Williams F1 Team,https://media.api-sports.io/formula-1/teams/12.png
+10,4,2024,18,Stake F1 Team Kick Sauber,https://media.api-sports.io/formula-1/teams/18.png
+1,860,2023,1,Red Bull Racing,https://media.api-sports.io/formula-1/teams/1.png
+2,409,2023,5,Mercedes-AMG Petronas,https://media.api-sports.io/formula-1/teams/5.png
+3,406,2023,3,Scuderia Ferrari,https://media.api-sports.io/formula-1/teams/3.png
+4,302,2023,2,McLaren Racing,https://media.api-sports.io/formula-1/teams/2.png
+5,280,2023,17,Aston Martin F1 Team,https://media.api-sports.io/formula-1/teams/17.png
+6,120,2023,13,Alpine F1 Team,https://media.api-sports.io/formula-1/teams/13.png
+7,28,2023,12,Williams F1 Team,https://media.api-sports.io/formula-1/teams/12.png
+8,25,2023,7,Racing Bulls,https://media.api-sports.io/formula-1/teams/7.png
+9,16,2023,18,Stake F1 Team Kick Sauber,https://media.api-sports.io/formula-1/teams/18.png
+10,12,2023,14,Haas F1 Team,https://media.api-sports.io/formula-1/teams/14.png

@@ -1,0 +1,37 @@
+id,name,image,first_grand_prix,laps,length,race_distance,capacity,opened,owner,competition.id,competition.name,competition.location.country,competition.location.city,lap_record.time,lap_record.driver,lap_record.year
+1,Albert Park Circuit,https://media.api-sports.io/formula-1/circuits/1.png,1996.0,58.0,5.278 km,306.124 km,80000.0,1953.0,,1.0,Australia Grand Prix,Australia,Melbourne,1:19.813,Charles Leclerc,2024
+2,Bahrain International Circuit,https://media.api-sports.io/formula-1/circuits/2.png,2004.0,57.0,5.412 Kms,308.238 kms,70000.0,2004.0,,2.0,Bahrain Grand Prix,Bahrain,Sakhir,1:31.447,Pedro de la Rosa,2005
+3,Hanoi Street Circuit,https://media.api-sports.io/formula-1/circuits/3.png,2020.0,55.0,5.607 Kms,308.715 kms,,,,3.0,Vietnam Grand Prix,Vietnam,Hanoï,,,
+4,Shanghai International Circuit,https://media.api-sports.io/formula-1/circuits/4.png,2004.0,56.0,5.451 Kms,305.066 kms,200000.0,2004.0,Shanghai Jiushi Group,4.0,China Grand Prix,China,Anting,1:32.238,Michael Schumacher,2004
+5,Circuit Zandvoort,https://media.api-sports.io/formula-1/circuits/5.png,1952.0,72.0,4.259 kms,306.587 kms,105000.0,1939.0,Chapman Andretti,5.0,Netherlands Grand Prix,Netherlands,Zandvoort,1:11.097,Lewis Hamilton,2021
+6,Circuit de Barcelona-Catalunya,https://media.api-sports.io/formula-1/circuits/6.png,1991.0,66.0,4.657 km,307.236 km,140700.0,1991.0,,6.0,Spain Grand Prix,Spain,Montmeló,1:16.330,Max Verstappen,2023
+7,Circuit de Monaco,https://media.api-sports.io/formula-1/circuits/7.png,1950.0,78.0,3.337 Kms,260.286 kms,37000.0,1950.0,,7.0,Monaco Grand Prix,Monaco,Monte-Carlo,1:12.909,Lewis Hamilton,2021
+8,Baku City Circuit,https://media.api-sports.io/formula-1/circuits/8.png,2016.0,51.0,6.003 Kms,306.049 kms,18500.0,,,8.0,Azerbaijan Grand Prix,Azerbaijan,Bakou,1:43.009,Charles Leclerc,2019
+9,Circuit Gilles-Villeneuve,https://media.api-sports.io/formula-1/circuits/9.png,1978.0,70.0,4.361 Kms,305.27 kms,100000.0,1978.0,City of Montreal,9.0,Canada Grand Prix,Canada,Montréal,1:13.078,Valtteri Bottas,2019
+10,Circuit Paul Ricard,https://media.api-sports.io/formula-1/circuits/10.png,1971.0,53.0,5.842 Kms,309.69 kms,90000.0,,,10.0,France Grand Prix,France,Le Castellet,1:32.740,Sebastian Vettel,2019
+11,Red Bull Ring,https://media.api-sports.io/formula-1/circuits/11.png,1970.0,71.0,4.318 km,306.452 kms,40000.0,1978.0,,11.0,Austria Grand Prix,Austria,Spielberg,1:05.619,Carlos Sainz,2020
+12,Silverstone Circuit,https://media.api-sports.io/formula-1/circuits/12.png,1950.0,52.0,5.891 Kms,306.198 kms,150000.0,1950.0,British Racing Drivers' Club,12.0,Great Britain Grand Prix,United Kingdom,Silverstone Northamptonshire,1:27.097,Max Verstappen,2020
+13,Hockenheimring,https://media.api-sports.io/formula-1/circuits/13.png,1970.0,67.0,4.574 Kms,306.458 kms,120000.0,1932.0,,13.0,Germany Grand Prix,Germany,Hockenheim,1:13.780,Kimi Räikkönen,2004
+14,Hungaroring,https://media.api-sports.io/formula-1/circuits/14.png,1986.0,70.0,4.381 Kms,306.63 kms,70000.0,1986.0,,14.0,Hungary Grand Prix,Hungary,Mogyoród,1:16.627,Lewis Hamilton,2020
+15,Circuit de Spa-Francorchamps,https://media.api-sports.io/formula-1/circuits/15.png,1950.0,44.0,7.004 Kms,308.052 kms,70000.0,1950.0,,15.0,Belgium Grand Prix,Belgium,Francorchamps,1:44.701,Sergio Perez,2024
+16,Autodromo Nazionale Monza,https://media.api-sports.io/formula-1/circuits/16.png,1950.0,53.0,5.793 Kms,306.72 kms,113860.0,1922.0,Comune di Monza & Milano,16.0,Italy Grand Prix,Italy,Monza,1:21.046,Rubens Barrichello,2004
+17,Marina Bay Street Circuit,https://media.api-sports.io/formula-1/circuits/17.png,2008.0,62.0,4.940 km,306.143 km,90000.0,2008.0,,17.0,Singapore Grand Prix,Singapore,Singapour,1:34.486,Daniel Ricciardo,2024
+18,Sochi Autodrom,https://media.api-sports.io/formula-1/circuits/18.png,2014.0,53.0,5.872 Kms,309.745 kms,55000.0,2014.0,,18.0,Russia Grand Prix,Russia,Sochi,1:35.761,Lewis Hamilton,2019
+19,Suzuka International Racing Course,https://media.api-sports.io/formula-1/circuits/19.png,1987.0,53.0,5.807 Kms,307.471 kms,155000.0,1987.0,Honda Motor Co,19.0,Japan Grand Prix,Japan,Suzuka,1:30.965,Andrea Kimi Antonelli,2025
+20,Circuit of The Americas,https://media.api-sports.io/formula-1/circuits/20.png,2012.0,56.0,5.513 km,308.405 kms,120000.0,2012.0,Circuit of the Americas LLC,20.0,USA Grand Prix,USA,Elroy,1:36.169,Charles Leclerc,2019
+21,Autódromo Hermanos Rodríguez,https://media.api-sports.io/formula-1/circuits/21.png,1963.0,71.0,4.304 Kms,305.354 kms,110000.0,1963.0,,21.0,Mexico Grand Prix,Mexico,Mexico,1:17.774,Valtteri Bottas,2021
+22,Autódromo José Carlos Pace,https://media.api-sports.io/formula-1/circuits/22.png,1973.0,71.0,4.309 Kms,305.879 km,60000.0,1973.0,,22.0,Brazil Grand Prix,Brazil,São Paulo,1:10.540,Valtteri Bottas,2018
+23,Yas Marina Circuit,https://media.api-sports.io/formula-1/circuits/23.png,2009.0,58.0,5.281 km,306.183 kms,60000.0,2009.0,Government of Abu Dhabi,23.0,Abu Dhabi Grand Prix,United Arab Emirates,"Yas Marina, Abou Dabi ",1:25.637,Kevin Magnussen,2024
+24,Autódromo Internacional do Algarve,https://media.api-sports.io/formula-1/circuits/24.png,2020.0,66.0,4.653 Kms,306.826 kms,,,,24.0,Portugal Grand Prix,Portugal,Algarve,1:18.750,Lewis Hamilton,2020
+25,Mugello,https://media.api-sports.io/formula-1/circuits/25.png,2020.0,59.0,5.245 Kms,309.497 kms,,,,27.0,Toscana Grand Prix,Italy,Mugello,1:18.833,Lewis Hamilton,2020
+26,Nürburgring,https://media.api-sports.io/formula-1/circuits/26.png,1951.0,60.0,5.148 Kms,308.617 kms,,,,28.0,Eifel Grand Prix,Germany,,1:28.139,Max Verstappen,2020
+27,Autodromo Enzo e Dino Ferrari,https://media.api-sports.io/formula-1/circuits/27.png,1980.0,63.0,4.909 km,309.049 kms,,1980.0,,29.0,Emilia Romagna Grand Prix,Italy,Imola,1:15.484,Lewis Hamilton,2020
+28,Intercity Istanbul Park,https://media.api-sports.io/formula-1/circuits/28.png,2005.0,58.0,5.338 Kms,309.396 kms,125000.0,2005.0,,30.0,Turkey Grand Prix,Turkey,Istanbul,1:24.770,Juan Pablo Montoya,2005
+29,Jeddah Corniche Circuit,https://media.api-sports.io/formula-1/circuits/29.png,2021.0,50.0,6.174 Kms,308.45 kms,,,,32.0,Saudi Arabia Grand Prix,Saudi Arabia,Djeddah,1:27.294,Max Verstappen,2025
+30,Losail International Circuit,https://media.api-sports.io/formula-1/circuits/30.png,2021.0,57.0,5.419 km,308.611 km,,,,33.0,Qatar Grand Prix,Qatar,Losail,1:22.384,Lando Norris,2024
+31,Miami International Autodrome,https://media.api-sports.io/formula-1/circuits/31.png,2022.0,57.0,5.412 km,308.326 km,,2022.0,,34.0,Miami Grand Prix,USA,Miami,1:29.708,Max Verstappen,2023
+32,Las Vegas Strip Circuit,https://media.api-sports.io/formula-1/circuits/32.png,2023.0,50.0,6.201 kms,309.958 km,,2023.0,,35.0,Las Vegas Grand Prix,USA,Las Vegas,1:34.876,Lando Norris,2024
+57,Buddh International Circuit,https://media.api-sports.io/formula-1/circuits/57.png,,,5.010 Kms,,,,,,,,,,,
+62,Sepang International Circuit,https://media.api-sports.io/formula-1/circuits/62.png,,,5.543 Kms,,,,,94.0,GP of Malaysia,Malaysia,Sepang,,,
+101,Korea International Circuit,https://media.api-sports.io/formula-1/circuits/101.png,,,5.615 Kms,,,,,,,,,,,
+102,Valencia Street Circuit,https://media.api-sports.io/formula-1/circuits/102.png,,,5.419 Kms,,,,,,,,,,,

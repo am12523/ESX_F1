@@ -1,0 +1,2 @@
+account.firstname,account.lastname,account.email,subscription.plan,subscription.end,subscription.active,requests.current,requests.limit_day
+Frank,Li,gse.frank.li@gmail.com,Pro,2025-09-19T16:12:45+00:00,True,0,7500

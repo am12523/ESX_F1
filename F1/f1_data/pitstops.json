@@ -1,0 +1,9 @@
+{
+  "get": "pitstops",
+  "parameters": [],
+  "errors": {
+    "race": "The Race field is required"
+  },
+  "results": 0,
+  "response": []
+}

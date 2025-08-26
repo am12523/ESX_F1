@@ -1,0 +1,68 @@
+position,points,wins,behind,season,driver.id,driver.name,driver.abbr,driver.number,driver.image,team.id,team.name,team.logo
+1,284.0,6,,2025,97,Oscar Piastri,PIA,81,https://media.api-sports.io/formula-1/drivers/97.png,2.0,McLaren Racing,https://media.api-sports.io/formula-1/teams/2.png
+2,275.0,5,9.0,2025,49,Lando Norris,NOR,4,https://media.api-sports.io/formula-1/drivers/49.png,2.0,McLaren Racing,https://media.api-sports.io/formula-1/teams/2.png
+3,187.0,2,97.0,2025,25,Max Verstappen,VER,1,https://media.api-sports.io/formula-1/drivers/25.png,1.0,Red Bull Racing,https://media.api-sports.io/formula-1/teams/1.png
+4,172.0,1,112.0,2025,51,George Russell,RUS,63,https://media.api-sports.io/formula-1/drivers/51.png,5.0,Mercedes-AMG Petronas,https://media.api-sports.io/formula-1/teams/5.png
+5,151.0,0,133.0,2025,34,Charles Leclerc,LEC,16,https://media.api-sports.io/formula-1/drivers/34.png,3.0,Scuderia Ferrari,https://media.api-sports.io/formula-1/teams/3.png
+6,109.0,0,175.0,2025,20,Lewis Hamilton,HAM,44,https://media.api-sports.io/formula-1/drivers/20.png,3.0,Scuderia Ferrari,https://media.api-sports.io/formula-1/teams/3.png
+7,64.0,0,220.0,2025,106,Andrea Kimi Antonelli,ANT,12,https://media.api-sports.io/formula-1/drivers/106.png,5.0,Mercedes-AMG Petronas,https://media.api-sports.io/formula-1/teams/5.png
+8,54.0,0,230.0,2025,50,Alexander Albon,ALB,23,https://media.api-sports.io/formula-1/drivers/50.png,12.0,Williams F1 Team,https://media.api-sports.io/formula-1/teams/12.png
+9,37.0,0,247.0,2025,6,Nico Hulkenberg,HUL,27,https://media.api-sports.io/formula-1/drivers/6.png,18.0,Stake F1 Team Kick Sauber,https://media.api-sports.io/formula-1/teams/18.png
+10,27.0,0,257.0,2025,28,Esteban Ocon,OCO,31,https://media.api-sports.io/formula-1/drivers/28.png,14.0,Haas F1 Team,https://media.api-sports.io/formula-1/teams/14.png
+11,26.0,0,258.0,2025,4,Fernando Alonso,ALO,14,https://media.api-sports.io/formula-1/drivers/4.png,17.0,Aston Martin F1 Team,https://media.api-sports.io/formula-1/teams/17.png
+12,26.0,0,258.0,2025,31,Lance Stroll,STR,18,https://media.api-sports.io/formula-1/drivers/31.png,17.0,Aston Martin F1 Team,https://media.api-sports.io/formula-1/teams/17.png
+13,22.0,0,262.0,2025,100,Isack Hadjar,HAD,6,https://media.api-sports.io/formula-1/drivers/100.png,7.0,Racing Bulls,https://media.api-sports.io/formula-1/teams/7.png
+14,20.0,0,264.0,2025,36,Pierre Gasly,GAS,10,https://media.api-sports.io/formula-1/drivers/36.png,13.0,Alpine F1 Team,https://media.api-sports.io/formula-1/teams/13.png
+15,20.0,0,264.0,2025,89,Liam Lawson,LAW,30,https://media.api-sports.io/formula-1/drivers/89.png,7.0,Racing Bulls,https://media.api-sports.io/formula-1/teams/7.png
+16,16.0,0,268.0,2025,24,Carlos Sainz Jr,SAI,55,https://media.api-sports.io/formula-1/drivers/24.png,12.0,Williams F1 Team,https://media.api-sports.io/formula-1/teams/12.png
+17,14.0,0,270.0,2025,110,Gabriel Bortoleto,BOR,5,https://media.api-sports.io/formula-1/drivers/110.png,18.0,Stake F1 Team Kick Sauber,https://media.api-sports.io/formula-1/teams/18.png
+18,10.0,0,274.0,2025,82,Yuki Tsunoda,TSU,22,https://media.api-sports.io/formula-1/drivers/82.png,1.0,Red Bull Racing,https://media.api-sports.io/formula-1/teams/1.png
+19,8.0,0,276.0,2025,101,Oliver Bearman,BEA,87,https://media.api-sports.io/formula-1/drivers/101.png,14.0,Haas F1 Team,https://media.api-sports.io/formula-1/teams/14.png
+20,,0,284.0,2025,105,Franco Colapinto,,43,https://media.api-sports.io/formula-1/drivers/105.png,13.0,Alpine F1 Team,https://media.api-sports.io/formula-1/teams/13.png
+21,,0,284.0,2025,94,Jack Doohan,DOO,7,https://media.api-sports.io/formula-1/drivers/94.png,13.0,Alpine F1 Team,https://media.api-sports.io/formula-1/teams/13.png
+1,437.0,9,,2024,25,Max Verstappen,VER,1,https://media.api-sports.io/formula-1/drivers/25.png,1.0,Red Bull Racing,https://media.api-sports.io/formula-1/teams/1.png
+2,374.0,4,63.0,2024,49,Lando Norris,NOR,4,https://media.api-sports.io/formula-1/drivers/49.png,2.0,McLaren Racing,https://media.api-sports.io/formula-1/teams/2.png
+3,356.0,3,81.0,2024,34,Charles Leclerc,LEC,16,https://media.api-sports.io/formula-1/drivers/34.png,3.0,Scuderia Ferrari,https://media.api-sports.io/formula-1/teams/3.png
+4,292.0,2,145.0,2024,97,Oscar Piastri,PIA,81,https://media.api-sports.io/formula-1/drivers/97.png,2.0,McLaren Racing,https://media.api-sports.io/formula-1/teams/2.png
+5,290.0,2,147.0,2024,24,Carlos Sainz Jr,SAI,55,https://media.api-sports.io/formula-1/drivers/24.png,3.0,Scuderia Ferrari,https://media.api-sports.io/formula-1/teams/3.png
+6,245.0,2,192.0,2024,51,George Russell,RUS,63,https://media.api-sports.io/formula-1/drivers/51.png,5.0,Mercedes-AMG Petronas,https://media.api-sports.io/formula-1/teams/5.png
+7,223.0,2,214.0,2024,20,Lewis Hamilton,HAM,44,https://media.api-sports.io/formula-1/drivers/20.png,5.0,Mercedes-AMG Petronas,https://media.api-sports.io/formula-1/teams/5.png
+8,152.0,0,285.0,2024,10,Sergio Perez,PER,11,https://media.api-sports.io/formula-1/drivers/10.png,1.0,Red Bull Racing,https://media.api-sports.io/formula-1/teams/1.png
+9,70.0,0,367.0,2024,4,Fernando Alonso,ALO,14,https://media.api-sports.io/formula-1/drivers/4.png,17.0,Aston Martin F1 Team,https://media.api-sports.io/formula-1/teams/17.png
+10,42.0,0,395.0,2024,36,Pierre Gasly,GAS,10,https://media.api-sports.io/formula-1/drivers/36.png,13.0,Alpine F1 Team,https://media.api-sports.io/formula-1/teams/13.png
+11,41.0,0,396.0,2024,6,Nico Hulkenberg,HUL,27,https://media.api-sports.io/formula-1/drivers/6.png,14.0,Haas F1 Team,https://media.api-sports.io/formula-1/teams/14.png
+12,30.0,0,407.0,2024,82,Yuki Tsunoda,TSU,22,https://media.api-sports.io/formula-1/drivers/82.png,7.0,Racing Bulls,https://media.api-sports.io/formula-1/teams/7.png
+13,24.0,0,413.0,2024,31,Lance Stroll,STR,18,https://media.api-sports.io/formula-1/drivers/31.png,17.0,Aston Martin F1 Team,https://media.api-sports.io/formula-1/teams/17.png
+14,23.0,0,414.0,2024,28,Esteban Ocon,OCO,31,https://media.api-sports.io/formula-1/drivers/28.png,13.0,Alpine F1 Team,https://media.api-sports.io/formula-1/teams/13.png
+15,16.0,0,421.0,2024,2,Kevin Magnussen,MAG,20,https://media.api-sports.io/formula-1/drivers/2.png,14.0,Haas F1 Team,https://media.api-sports.io/formula-1/teams/14.png
+16,12.0,0,425.0,2024,50,Alexander Albon,ALB,23,https://media.api-sports.io/formula-1/drivers/50.png,12.0,Williams F1 Team,https://media.api-sports.io/formula-1/teams/12.png
+17,12.0,0,425.0,2024,14,Daniel Ricciardo,RIC,3,https://media.api-sports.io/formula-1/drivers/14.png,7.0,Racing Bulls,https://media.api-sports.io/formula-1/teams/7.png
+18,7.0,0,430.0,2024,101,Oliver Bearman,BEA,87,https://media.api-sports.io/formula-1/drivers/101.png,14.0,Haas F1 Team,https://media.api-sports.io/formula-1/teams/14.png
+19,5.0,0,432.0,2024,105,Franco Colapinto,,43,https://media.api-sports.io/formula-1/drivers/105.png,12.0,Williams F1 Team,https://media.api-sports.io/formula-1/teams/12.png
+20,4.0,0,433.0,2024,83,Guanyu Zhou,,24,https://media.api-sports.io/formula-1/drivers/83.png,18.0,Stake F1 Team Kick Sauber,https://media.api-sports.io/formula-1/teams/18.png
+21,4.0,0,433.0,2024,89,Liam Lawson,LAW,30,https://media.api-sports.io/formula-1/drivers/89.png,,,
+22,,0,437.0,2024,5,Valtteri Bottas,BOT,77,https://media.api-sports.io/formula-1/drivers/5.png,18.0,Stake F1 Team Kick Sauber,https://media.api-sports.io/formula-1/teams/18.png
+23,,0,437.0,2024,92,Logan Sargeant,,2,https://media.api-sports.io/formula-1/drivers/92.png,12.0,Williams F1 Team,https://media.api-sports.io/formula-1/teams/12.png
+24,,0,437.0,2024,94,Jack Doohan,DOO,7,https://media.api-sports.io/formula-1/drivers/94.png,13.0,Alpine F1 Team,https://media.api-sports.io/formula-1/teams/13.png
+1,575.0,19,,2023,25,Max Verstappen,VER,1,https://media.api-sports.io/formula-1/drivers/25.png,1.0,Red Bull Racing,https://media.api-sports.io/formula-1/teams/1.png
+2,285.0,2,290.0,2023,10,Sergio Perez,PER,11,https://media.api-sports.io/formula-1/drivers/10.png,1.0,Red Bull Racing,https://media.api-sports.io/formula-1/teams/1.png
+3,234.0,0,341.0,2023,20,Lewis Hamilton,HAM,44,https://media.api-sports.io/formula-1/drivers/20.png,5.0,Mercedes-AMG Petronas,https://media.api-sports.io/formula-1/teams/5.png
+4,206.0,0,369.0,2023,4,Fernando Alonso,ALO,14,https://media.api-sports.io/formula-1/drivers/4.png,17.0,Aston Martin F1 Team,https://media.api-sports.io/formula-1/teams/17.png
+5,206.0,0,369.0,2023,34,Charles Leclerc,LEC,16,https://media.api-sports.io/formula-1/drivers/34.png,3.0,Scuderia Ferrari,https://media.api-sports.io/formula-1/teams/3.png
+6,205.0,0,370.0,2023,49,Lando Norris,NOR,4,https://media.api-sports.io/formula-1/drivers/49.png,2.0,McLaren Racing,https://media.api-sports.io/formula-1/teams/2.png
+7,200.0,1,375.0,2023,24,Carlos Sainz Jr,SAI,55,https://media.api-sports.io/formula-1/drivers/24.png,3.0,Scuderia Ferrari,https://media.api-sports.io/formula-1/teams/3.png
+8,175.0,0,400.0,2023,51,George Russell,RUS,63,https://media.api-sports.io/formula-1/drivers/51.png,5.0,Mercedes-AMG Petronas,https://media.api-sports.io/formula-1/teams/5.png
+9,97.0,0,478.0,2023,97,Oscar Piastri,PIA,81,https://media.api-sports.io/formula-1/drivers/97.png,2.0,McLaren Racing,https://media.api-sports.io/formula-1/teams/2.png
+10,74.0,0,501.0,2023,31,Lance Stroll,STR,18,https://media.api-sports.io/formula-1/drivers/31.png,17.0,Aston Martin F1 Team,https://media.api-sports.io/formula-1/teams/17.png
+11,62.0,0,513.0,2023,36,Pierre Gasly,GAS,10,https://media.api-sports.io/formula-1/drivers/36.png,13.0,Alpine F1 Team,https://media.api-sports.io/formula-1/teams/13.png
+12,58.0,0,517.0,2023,28,Esteban Ocon,OCO,31,https://media.api-sports.io/formula-1/drivers/28.png,13.0,Alpine F1 Team,https://media.api-sports.io/formula-1/teams/13.png
+13,27.0,0,548.0,2023,50,Alexander Albon,ALB,23,https://media.api-sports.io/formula-1/drivers/50.png,12.0,Williams F1 Team,https://media.api-sports.io/formula-1/teams/12.png
+14,17.0,0,558.0,2023,82,Yuki Tsunoda,TSU,22,https://media.api-sports.io/formula-1/drivers/82.png,7.0,Racing Bulls,https://media.api-sports.io/formula-1/teams/7.png
+15,10.0,0,565.0,2023,5,Valtteri Bottas,BOT,77,https://media.api-sports.io/formula-1/drivers/5.png,18.0,Stake F1 Team Kick Sauber,https://media.api-sports.io/formula-1/teams/18.png
+16,9.0,0,566.0,2023,6,Nico Hulkenberg,HUL,27,https://media.api-sports.io/formula-1/drivers/6.png,14.0,Haas F1 Team,https://media.api-sports.io/formula-1/teams/14.png
+17,6.0,0,569.0,2023,14,Daniel Ricciardo,RIC,3,https://media.api-sports.io/formula-1/drivers/14.png,7.0,Racing Bulls,https://media.api-sports.io/formula-1/teams/7.png
+18,6.0,0,569.0,2023,83,Guanyu Zhou,,24,https://media.api-sports.io/formula-1/drivers/83.png,18.0,Stake F1 Team Kick Sauber,https://media.api-sports.io/formula-1/teams/18.png
+19,3.0,0,572.0,2023,2,Kevin Magnussen,MAG,20,https://media.api-sports.io/formula-1/drivers/2.png,14.0,Haas F1 Team,https://media.api-sports.io/formula-1/teams/14.png
+20,2.0,0,573.0,2023,89,Liam Lawson,LAW,30,https://media.api-sports.io/formula-1/drivers/89.png,7.0,Racing Bulls,https://media.api-sports.io/formula-1/teams/7.png
+21,1.0,0,574.0,2023,92,Logan Sargeant,,2,https://media.api-sports.io/formula-1/drivers/92.png,12.0,Williams F1 Team,https://media.api-sports.io/formula-1/teams/12.png
+22,,0,575.0,2023,88,Nyck De Vries,,17,https://media.api-sports.io/formula-1/drivers/88.png,7.0,Racing Bulls,https://media.api-sports.io/formula-1/teams/7.png

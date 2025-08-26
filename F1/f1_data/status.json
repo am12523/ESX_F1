@@ -1,0 +1,26 @@
+{
+  "get": "status",
+  "parameters": [],
+  "errors": [],
+  "results": 0,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": {
+    "account": {
+      "firstname": "Frank",
+      "lastname": "Li",
+      "email": "gse.frank.li@gmail.com"
+    },
+    "subscription": {
+      "plan": "Pro",
+      "end": "2025-09-19T16:12:45+00:00",
+      "active": true
+    },
+    "requests": {
+      "current": 1,
+      "limit_day": 7500
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "get": "rankings",
+  "parameters": [],
+  "errors": {
+    "season": "The Season field is required"
+  },
+  "results": 0,
+  "response": []
+}
